@@ -1,20 +1,19 @@
-![Reesav Raj](https://i.pinimg.com/736x/d6/40/e1/d640e11ed59ca56668dc6ee0836a389f.jpg)
+Reesav Raj(https://i.pinimg.com/736x/d6/40/e1/d640e11ed59ca56668dc6ee0836a389f.jpg)
 
-<h1 align="center">Hi there 👋 I'm [Reesav Raj]!</h1>
+<h1 align="center">Hi there 👋 I'm Reesav Raj</h1>
 
 <p align="center">
-  A passionate 🚀 <strong>Full Stack Web Developer</strong> with a strong focus on the MERN stack,
-  and a dedicated <strong>Mobile App Developer</strong> crafting seamless experiences for Android (Kotlin)
-  and cross-platform solutions with React Native (Android & iOS).
-  Currently diving deep into native iOS development to broaden my mobile expertise!
+React Native Full-Stack Developer: Android Focus with iOS Aspirations.
+
+I'm  a React Native developer with a strong full-stack foundation, building applications for both Android and iOS. My expertise really shines on the Android side, where I have a solid command of Kotlin for native development.For my full-stack capabilities, I'm  well-versed in the MERN stack (MongoDB, Express.js, React.js, Node.js), which complements my React Native skills perfectly for building robust backend systems.Currently, I'm  expanding my horizons by actively learning iOS app development, which will soon make you me truly versatile mobile developer across both major platforms.
 </p>
 
 ---
 
 ### 🌱 About Me
 
-- 💻 I specialize in building robust and scalable web applications using the **MERN (MongoDB, Express.js, React, Node.js)** stack.
-- 📱 On the mobile front, I develop native Android applications with **Kotlin** and create cross-platform experiences for both Android and iOS using **React Native**.
+-  📱On the Mobile front, I specialize in building robust, scalable and cross platform Mobile applications using the **React-Native (React-Native Framework,Typescript,Expo,React-Native CLI,Expo- -Router,React-Navigation,React-Query,Redux-Toolkit, MMKV,NativeWind,React-Native Paper,Flashlight, Jest, Clerk, Revenue-Cat, Sentry, Expo-EAS, Nodejs,Firebase,MongoDb/PostGreSQL, AWS-S3)** stack.I also develop native Android applications with **Kotlin**
+- 💻On the Web front, I develop Full-Stack  applications using **MERN** stack(**MongoDB, ExpressJs, React, NodeJS**)
 - 🍎 Currently, I'm expanding my horizons by learning **native iOS development**, eager to master Swift and Xcode.
 - 👯 I’m always open to collaborating on exciting web or mobile development projects that solve real-world problems.
 - 💬 Ask me about anything related to MERN, Android (Kotlin), React Native, or mobile app architecture!
@@ -28,20 +27,14 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongodb,mongoose,tailwind,bootstrap,firebase" alt="Web Development Skills" />
   <br>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,reactnative,xcode,swift,neovim,jest,mocha,flipper,Redux," alt="Mobile Development Skills" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,reactnative,xcode,swift,neovim,jest,mocha,flipper,Redux,MMKV,Typescript,Clerk,AWS,Nativewind" alt="Mobile Development Skills" />
   <br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,aws,gcp,docker,linux,npm,yarn" alt="Tools & Other Skills" />
 </p>
 
 ---
 
-### 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Your GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=radical&hide_border=true" alt="Your GitHub Streak" />
-</p>
----
 
 ### 🌐 Connect With Me
 
