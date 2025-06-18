@@ -1,6 +1,6 @@
 ![Reesav Raj](https://i.pinimg.com/736x/d6/40/e1/d640e11ed59ca56668dc6ee0836a389f.jpg)
 
-<h1 align="center">Hi there 👋 I'm [Your Name]!</h1>
+<h1 align="center">Hi there 👋 I'm [Reesav Raj]!</h1>
 
 <p align="center">
   A passionate 🚀 <strong>Full Stack Web Developer</strong> with a strong focus on the MERN stack,
@@ -28,7 +28,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongodb,mongoose,tailwind,bootstrap,firebase" alt="Web Development Skills" />
   <br>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,reactnative,xcode,swift,expo,neovim" alt="Mobile Development Skills" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,reactnative,xcode,swift,neovim,jest,mocha,flipper,Redux," alt="Mobile Development Skills" />
   <br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,aws,gcp,docker,linux,npm,yarn" alt="Tools & Other Skills" />
 </p>
