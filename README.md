@@ -1,4 +1,4 @@
-[Reesav Raj](https://i.pinimg.com/736x/d6/40/e1/d640e11ed59ca56668dc6ee0836a389f.jpg)
+![Profile Banner](https://i.pinimg.com/736x/d6/40/e1/d640e11ed59ca56668dc6ee0836a389f.jpg)
 
 <h1 align="center">Hi there 👋 I'm Reesav Raj</h1>
 
