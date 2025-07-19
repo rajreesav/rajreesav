@@ -25,7 +25,7 @@ I'm  a React Native developer with a strong full-stack foundation, building appl
 ### 🛠️ Languages & Tools I'm Proficient In
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongodb,mongoose,lua,tailwind,bootstrap,gmail,firebase,emacs,npm,postgres,supabase,kotlin,androidstudio,ktor,sqlite,xcode,swift,go,neovim,jest,gradle,bash,arch,bun,electron,ubuntu,vim,vite,git,github,vscode,postman,figma,aws,gcp,nginx,nix,docker,linux,npm,yarn,kali,powershell" alt="Web Development Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongodb,lua,tailwind,bootstrap,gmail,firebase,emacs,npm,postgres,supabase,kotlin,androidstudio,ktor,sqlite,swift,go,neovim,jest,gradle,bash,arch,bun,electron,ubuntu,vim,vite,git,github,vscode,postman,figma,aws,gcp,nginx,nix,docker,linux,npm,yarn,kali,powershell" alt="Web Development Skills" />
   
 </p>
 
